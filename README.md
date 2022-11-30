@@ -1,6 +1,6 @@
-# Getting Started with Create Holly Molly Exam
+# Getting Started with Create Hello Molly exam
 
-This project was bootstrapped with [Create Holly Molly Exam](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create Hello Molly exam](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create Holly Molly Exam documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create Hello Molly exam documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
